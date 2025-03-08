@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Taha Khan<br>
-Studied Bachelor of Commerce in Seshadripuram First Grade College, Bengaluru<br>Currently pursuing Data Science and Analytics in Imarticus Learning<br>I'm currently working on Machine Learning Project - Fraud Detection.<br><br>
+Studied Bachelor of Commerce in Seshadripuram First Grade College, Bengaluru<br>Currently pursuing Data Science and Analytics in Imarticus Learning<br>I'm currently working on Machine Learning Project - Bengaluru house price Prediction.
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahakhan8607@gmail.com) 
 
 # 💻 Tech Stack:
